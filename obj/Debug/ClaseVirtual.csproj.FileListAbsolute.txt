@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\bin\Debug\ClaseVirtual.exe.config
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\bin\Debug\ClaseVirtual.exe
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\bin\Debug\ClaseVirtual.pdb
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\obj\Debug\ClaseVirtual.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\obj\Debug\ClaseVirtual.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\obj\Debug\ClaseVirtual.exe
+C:\Users\LENOVO\Documents\Ejercicios de Codigos\ClaseVirtual\obj\Debug\ClaseVirtual.pdb
