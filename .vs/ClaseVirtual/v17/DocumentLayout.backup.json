@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\Ejercicios de Codigos\\ClaseVirtual\\",
+  "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\lenovo\\documents\\ejercicios de codigos\\clasevirtual\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\virtual\\clasevirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\lenovo\\documents\\ejercicios de codigos\\clasevirtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\virtual\\clasevirtual\\circulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:circulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\virtual\\clasevirtual\\triangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:triangulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\virtual\\clasevirtual\\geometria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:geometria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\virtual\\clasevirtual\\cuadrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFC30D8-BD07-4894-B7CF-0F2EC0C711C9}|ClaseVirtual.csproj|solutionrelative:cuadrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Circulos.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Circulos.cs",
+              "RelativeDocumentMoniker": "Circulos.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Circulos.cs",
+              "RelativeToolTip": "Circulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:14:36.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangulos.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Triangulos.cs",
+              "RelativeDocumentMoniker": "Triangulos.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Triangulos.cs",
+              "RelativeToolTip": "Triangulos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:13:08.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Geometria.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Geometria.cs",
+              "RelativeDocumentMoniker": "Geometria.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Geometria.cs",
+              "RelativeToolTip": "Geometria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:10:53.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuadrados.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Cuadrados.cs",
+              "RelativeDocumentMoniker": "Cuadrados.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Cuadrados.cs",
+              "RelativeToolTip": "Cuadrados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:06:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Ejercicios de Codigos\\ClaseVirtual\\Menu.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Menu.cs",
               "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Ejercicios de Codigos\\ClaseVirtual\\Menu.cs*",
-              "RelativeToolTip": "Menu.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAaAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T21:53:54.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Ejercicios de Codigos\\ClaseVirtual\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Ejercicios de Codigos\\ClaseVirtual\\Program.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Virtual\\ClaseVirtual\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-10T20:46:33.076Z",
               "EditorCaption": ""
